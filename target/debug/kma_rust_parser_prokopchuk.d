@@ -1,0 +1,1 @@
+C:\Users\olexa\rust-learning-path\kma_rust_parser\kma_rust_parser_prokopchuk\target\debug\kma_rust_parser_prokopchuk.exe: C:\Users\olexa\rust-learning-path\kma_rust_parser\kma_rust_parser_prokopchuk\src\lib.rs C:\Users\olexa\rust-learning-path\kma_rust_parser\kma_rust_parser_prokopchuk\src\main.rs
